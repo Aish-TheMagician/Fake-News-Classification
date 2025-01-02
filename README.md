@@ -157,14 +157,6 @@ This project successfully demonstrated a robust pipeline for fake news detection
 
 ---
 
-## Submission Files
-
-1. **Code:** Provided as a Jupyter Notebook.
-2. **Report:** This document.
-3. **Results:** Output saved as `result.json` and visualizations (confusion matrices, AUC-ROC curves, etc.) included.
-
----
-
 ## Future Work
 
 - Extend analysis to include social media data, which often contains fake news in different formats.
